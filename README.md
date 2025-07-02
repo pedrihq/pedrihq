@@ -1,4 +1,4 @@
-## Olá 👋! Sou PEdro Henrique
+## Olá 👋! Sou Pedro Henrique
 
 - 📚 Estudante de Front-end/Back-end
 - 📚 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
